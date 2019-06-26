@@ -8,7 +8,7 @@ genero:"comedia"
 },
 {
 nombre:"Jesse",
-edad:19,
+edad:29,
 cedula: 1006856501,
 peliFavorita:"spider man 2",
 genero:"ciencia ficcion",
